@@ -1,5 +1,5 @@
-# CS252S22ProjectsLabs
-Template for CS252 Spring 22 Projects and Labs
+# CS251S23ProjectsLabs
+Template for CS251 Spring 23 Projects and Labs
 
 Some Git Instructions
 ---------------------
